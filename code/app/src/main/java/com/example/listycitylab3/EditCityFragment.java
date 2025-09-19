@@ -21,7 +21,7 @@ public class EditCityFragment extends DialogFragment {
         this.city = city;
     }
 
-    public EditCityFragment() {} // Required empty constructor
+    public EditCityFragment() {} 
 
     @Override
     public void onAttach(@NonNull Context context) {
